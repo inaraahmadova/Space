@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SpaceWeb.DataAccesLayer;
 using SpaceWeb.Models;
@@ -7,6 +8,7 @@ using SpaceWeb.ViewModels;
 namespace SpaceWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class HomeController(SpaceContext _context) : Controller
     {
         public async Task<IActionResult> Index()

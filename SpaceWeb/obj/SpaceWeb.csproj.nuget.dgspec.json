@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\SpaceWeb\\SpaceWeb\\SpaceWeb.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\Space\\SpaceWeb\\SpaceWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\SpaceWeb\\SpaceWeb\\SpaceWeb.csproj": {
+    "C:\\Users\\Hp\\Desktop\\Space\\SpaceWeb\\SpaceWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\SpaceWeb\\SpaceWeb\\SpaceWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\Space\\SpaceWeb\\SpaceWeb.csproj",
         "projectName": "SpaceWeb",
-        "projectPath": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\SpaceWeb\\SpaceWeb\\SpaceWeb.csproj",
-        "packagesPath": "C:\\Users\\ca.r214.05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r214.05\\Desktop\\AB204Araz\\SpaceWeb\\SpaceWeb\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\Space\\SpaceWeb\\SpaceWeb.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\Space\\SpaceWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ca.r214.05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.5, )"
@@ -83,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

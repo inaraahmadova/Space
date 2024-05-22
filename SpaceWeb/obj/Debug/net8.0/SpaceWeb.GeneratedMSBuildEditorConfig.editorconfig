@@ -17,51 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SpaceWeb
 build_property.RootNamespace = SpaceWeb
-build_property.ProjectDir = C:\Users\ca.r214.05\Desktop\AB204Araz\SpaceWeb\SpaceWeb\
+build_property.ProjectDir = C:\Users\Hp\Desktop\Space\SpaceWeb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ca.r214.05\Desktop\AB204Araz\SpaceWeb\SpaceWeb
+build_property.MSBuildProjectDirectory = C:\Users\Hp\Desktop\Space\SpaceWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Areas/Admin/Views/Home/Create.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Areas/Admin/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Areas/Admin/Views/Home/Update.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Areas/Admin/Views/Home/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Views/Home/Index.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Views/_ViewImports.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Views/_ViewStart.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.05/Desktop/AB204Araz/SpaceWeb/SpaceWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/Hp/Desktop/Space/SpaceWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4e0i7c18xw
